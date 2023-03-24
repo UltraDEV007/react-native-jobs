@@ -17,10 +17,17 @@ import styles from "./popularjobs.style";
 const Popularjobs = () => {
   const router = useRouter();
 
-  const { data, isLoading, error } = useFetch("search", {
+  const { data, isLoading, error, refetch } = useFetch("search", {
     query: "React Developer",
     num_pages: 1,
   });
+
+  const [first, setFirst] = useState(true);
+
+  const fetch = () => {
+    refetch();
+    setFirst(false);
+  };
 
   const [selectedJob, setSelectedJob] = useState("");
 
@@ -39,7 +46,11 @@ const Popularjobs = () => {
       {isLoading ? (
         <ActivityIndicator size="large" color={COLORS.primary} />
       ) : error ? (
-        <Text>Something went wrong</Text>
+        first ? (
+          fetch()
+        ) : (
+          <Text>Something went wrong</Text>
+        )
       ) : (
         <FlatList
           data={data}
