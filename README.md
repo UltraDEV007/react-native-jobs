@@ -25,7 +25,7 @@
 RAPID_API_KEY=XXXXXXXXXXXXXXXXXXX
 ```
 
-7. Now, to setup API, go to [Rapid API Website](https://rapidapi.com/) and create an account.
+7. Now, to setup API, go to [Rapid API Website](https://rapidapi.com/ "Rapid API Website") and create an account.
 8. Enable this API to fetch job data: [API: JSearch by OpenWeb Ninja](https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch "API: JSearch by OpenWeb Ninja").
 
 ![Copy API Key](/.github/images/step_rapidapi.png "Copy API Key")
@@ -33,7 +33,7 @@ RAPID_API_KEY=XXXXXXXXXXXXXXXXXXX
 9. Once project has been set up, you can start this app using `npm start` or `yarn start`.
 10. Now app is fully configured and you can start using this app :+1:.
 
-**More Info** related [How to start Expo App](https://www.reactnative.dev/docs/environment-setup "How to start Expo App")
+:books: **More Info** related [How to start Expo App](https://www.reactnative.dev/docs/environment-setup "How to start Expo App")
 
 ## :camera: Screenshots:
 
@@ -73,9 +73,9 @@ You might encounter some bugs while using this app. You are more than welcome to
 
 You can also give this repository a star to show more people and they can use this repository.
 
-## :books: Expo Router Example
+## :red_circle: Expo Router Example
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+Use [`expo-router`](https://expo.github.io/router "expo-router") to build native navigation using files in the `app/` directory.
 
 ## :rocket: How to use
 
@@ -85,6 +85,6 @@ npx create-react-native-app -t with-router
 
 ## :page_with_curl: Notes
 
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
-- [Request for Comments](https://github.com/expo/router/discussions/1)
+- [Expo Router: Docs](https://expo.github.io/router "Expo Router: Docs")
+- [Expo Router: Repo](https://github.com/expo/router "Expo Router: Repo")
+- [Request for Comments](https://github.com/expo/router/discussions/1 "Request for Comments")
