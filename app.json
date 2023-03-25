@@ -5,6 +5,18 @@
       "bundler": "metro"
     },
     "name": "jobs-react-native",
-    "slug": "jobs-react-native"
+    "slug": "jobs-react-native",
+    "description": "Find your perfect job",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.shubham.jobs"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a20bed92-81d0-4234-b878-f1077cc5394c"
+      }
+    }
   }
 }
