@@ -40,11 +40,14 @@ RAPID_API_KEY=XXXXXXXXXXXXXXXXXXX
 <p align="center">
 <img src="/.github/images/img1.jpeg" alt="Job Categories" height="700" title="Job Categories" />
 <img src="/.github/images/img2.jpeg" alt="Search various jobs" height="700" title="Search various jobs" />
-<img src="/.github/images/img3.jpeg" alt="Supports Pagination" height="700" title="Supports Pagination" />
 </p>
 
 <p align="center">
+<img src="/.github/images/img3.jpeg" alt="Supports Pagination" height="700" title="Supports Pagination" />
 <img src="/.github/images/img4.jpeg" alt="View more about jobs" height="700" title="View more about jobs" />
+</p>
+
+<p align="center">
 <img src="/.github/images/img5.jpeg" alt="Job Qualifications" height="700" title="Job Qualifications" />
 <img src="/.github/images/img6.jpeg" alt="Job Responsibilities" height="700" title="Job Responsibilities" />
 </p>
