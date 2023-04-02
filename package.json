@@ -40,5 +40,19 @@
   },
   "name": "jobs-react-native",
   "version": "1.0.0",
-  "private": true
+  "private": true,
+  "license": "MIT",
+  "author": "Sanidhya Kr. Verma",
+  "description": "The Next Generation Job Finder App using React Native",
+  "keywords": [
+    "reactjs",
+    "react",
+    "react-native",
+    "job-web-app",
+    "modern-ui/ux",
+    "js",
+    "javascript",
+    "html",
+    "css"
+  ]
 }
