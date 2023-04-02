@@ -1,8 +1,8 @@
 import React, { useState } from "react";
-import { View, ScrollView, SafeAreaView } from "react-native";
+import { View, ScrollView, SafeAreaView, Linking } from "react-native";
 import { Stack, useRouter } from "expo-router";
 
-import { COLORS, icons, images, SIZES } from "../constants";
+import { COLORS, icons, SIZES } from "../constants";
 import {
   Nearbyjobs,
   Popularjobs,
@@ -26,7 +26,15 @@ const Home = () => {
             <ScreenHeaderBtn iconUrl={icons.menu} dimension="60%" />
           ),
           headerRight: () => (
-            <ScreenHeaderBtn iconUrl={images.profile} dimension="100%" />
+            <ScreenHeaderBtn
+              iconUrl={icons.github}
+              dimension="70%"
+              handlePress={() =>
+                Linking.openURL(
+                  "https://github.com/Technical-Shubham-tech/jobs-react-native"
+                )
+              }
+            />
           ),
           headerTitle: "",
         }}
