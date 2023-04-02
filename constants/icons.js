@@ -1,3 +1,6 @@
+// Contains all icons to be used in other files.
+// Don't remove anything from here if not sure.
+
 import heart from "../assets/icons/heart.png";
 import menu from "../assets/icons/menu.png";
 import search from "../assets/icons/search.png";

@@ -2,6 +2,7 @@ import { StyleSheet } from "react-native";
 
 import { COLORS, SHADOWS, SIZES } from "../../../../constants";
 
+// Nearby Job Card Styles
 const styles = StyleSheet.create({
   container: {
     flex: 1,

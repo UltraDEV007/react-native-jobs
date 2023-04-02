@@ -2,6 +2,7 @@ import { StyleSheet } from "react-native";
 
 import { COLORS, SHADOWS, SIZES } from "../../../constants";
 
+// Tabs Styles
 const styles = StyleSheet.create({
   container: {
     marginTop: SIZES.small,

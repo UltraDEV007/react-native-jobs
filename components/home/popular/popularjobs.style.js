@@ -2,6 +2,7 @@ import { StyleSheet } from "react-native";
 
 import { FONT, SIZES, COLORS } from "../../../constants";
 
+// Popular Job Styles
 const styles = StyleSheet.create({
   container: {
     marginTop: SIZES.xLarge,

@@ -1,3 +1,7 @@
+// Contains all theme styling to be used in other files.
+// Don't remove anything from here if not sure.
+
+// colors
 const COLORS = {
   primary: "#312651",
   secondary: "#444262",
@@ -10,12 +14,14 @@ const COLORS = {
   lightWhite: "#FAFAFC",
 };
 
+// font
 const FONT = {
   regular: "DMRegular",
   medium: "DMMedium",
   bold: "DMBold",
 };
 
+// sizes
 const SIZES = {
   xSmall: 10,
   small: 12,
@@ -25,6 +31,7 @@ const SIZES = {
   xxLarge: 32,
 };
 
+// shadows
 const SHADOWS = {
   small: {
     shadowColor: "#000",

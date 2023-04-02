@@ -2,6 +2,7 @@ import { StyleSheet } from "react-native";
 
 import { COLORS, FONT, SIZES } from "../../../constants";
 
+// Footer Styles
 const styles = StyleSheet.create({
   container: {
     position: "absolute",

@@ -2,6 +2,7 @@ import { StyleSheet } from "react-native";
 
 import { COLORS, FONT, SHADOWS, SIZES } from "../../../../constants";
 
+// Popular Job Card Styles
 const styles = StyleSheet.create({
   container: (selectedJob, item) => ({
     width: 250,

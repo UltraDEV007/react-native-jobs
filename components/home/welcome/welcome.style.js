@@ -2,6 +2,7 @@ import { StyleSheet } from "react-native";
 
 import { COLORS, FONT, SIZES } from "../../../constants";
 
+// Welcome Styles
 const styles = StyleSheet.create({
   container: {
     width: "100%",

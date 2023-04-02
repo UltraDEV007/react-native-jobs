@@ -2,6 +2,7 @@ import { StyleSheet } from "react-native";
 
 import { COLORS, FONT, SIZES } from "../../../constants";
 
+// Specifics Styles
 const styles = StyleSheet.create({
   container: {
     marginTop: SIZES.large,

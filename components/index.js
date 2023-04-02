@@ -1,3 +1,6 @@
+// Contains all components to be used in other files.
+// Don't remove anything from here if not sure.
+
 import ScreenHeaderBtn from "./common/header/ScreenHeaderBtn";
 
 // home screen

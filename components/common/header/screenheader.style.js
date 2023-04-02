@@ -2,6 +2,7 @@ import { StyleSheet } from "react-native";
 
 import { COLORS, SIZES } from "../../../constants";
 
+// Screen Header Button styles
 const styles = StyleSheet.create({
   btnContainer: {
     width: 40,
