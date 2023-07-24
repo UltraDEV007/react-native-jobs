@@ -3449,15 +3449,16 @@ expo-updates-interface@~0.10.0:
   resolved "https://registry.yarnpkg.com/expo-updates-interface/-/expo-updates-interface-0.10.1.tgz#cab075641cd381718ccd9264bf133dc393430a44"
   integrity sha512-I6JMR7EgjXwckrydDmrkBEX/iw750dcqpzQVsjznYWfi0HTEOxajLHB90fBFqQkUV5i5s4Fd3hYQ1Cn0oMzUbA==
 
-expo-updates@~0.18.8:
-  version "0.18.8"
-  resolved "https://registry.yarnpkg.com/expo-updates/-/expo-updates-0.18.8.tgz#d021a4ad236a20e7f74c2a53b591d979b0c7d444"
-  integrity sha512-meFHZhzzGrTRd+tmPGTDgqUjlmTM6M9dQd1CXDRV9peSViO0dD1TgHC0ftkEcSIDv3PJTy0SwnPCEF9O3JsM+Q==
+expo-updates@~0.18.10:
+  version "0.18.10"
+  resolved "https://registry.yarnpkg.com/expo-updates/-/expo-updates-0.18.10.tgz#0e0118318815f7b8822211e731854b390b884668"
+  integrity sha512-gmzeaMmmkQqb4BQvLD8gKZ9Xd3EaVGyLjffhBe1AVGIFyQoZ4aWz2NY8bmC89cB4u2VGNxTKAGeS82kGSyMljQ==
   dependencies:
     "@expo/code-signing-certificates" "0.0.5"
     "@expo/config" "~8.1.0"
     "@expo/config-plugins" "~7.2.0"
     arg "4.1.0"
+    chalk "^4.1.2"
     expo-eas-client "~0.6.0"
     expo-manifests "~0.7.0"
     expo-structured-headers "~3.3.0"
