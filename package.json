@@ -29,7 +29,7 @@
     "xml2js": "0.6.2"
   },
   "devDependencies": {
-    "@babel/core": "^7.22.11",
+    "@babel/core": "^7.22.17",
     "@babel/plugin-proposal-export-namespace-from": "^7.18.9"
   },
   "resolutions": {
