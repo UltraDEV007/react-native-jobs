@@ -3448,12 +3448,12 @@ expo-asset@~8.9.1:
     path-browserify "^1.0.0"
     url-parse "^1.5.9"
 
-expo-constants@^14.4.2, expo-constants@~14.5.0:
-  version "14.5.1"
-  resolved "https://registry.yarnpkg.com/expo-constants/-/expo-constants-14.5.1.tgz#2b996604dc5ec642d29fc16380daa0a61a66472d"
-  integrity sha512-06OKXQmKI0vuje++6lm7w1kO3rKsZAHio/4d9hwQuVAtExJ6RM92BnpzkDAV16ZheVN/FHKzNyY1BYLqXfujMw==
+expo-constants@^15.1.0:
+  version "15.1.0"
+  resolved "https://registry.yarnpkg.com/expo-constants/-/expo-constants-15.1.0.tgz#04c6568601e7b4e9fd3beb6c724eff273ef8806e"
+  integrity sha512-+06kR3OaE5C/szTwuztID+bINo1UUOn2gYzMpUcKJVyLWFiogxwhVcX1NL4qVKRlN2kCyHQehHMVVtjkOrKldw==
   dependencies:
-    "@expo/config" "~8.2.0"
+    "@expo/config" "~8.3.0"
     uuid "^3.3.2"
 
 expo-constants@~14.2.0, expo-constants@~14.2.1:
@@ -3462,6 +3462,14 @@ expo-constants@~14.2.0, expo-constants@~14.2.1:
   integrity sha512-DD5u4QmBds2U7uYo409apV7nX+XjudARcgqe7S9aRFJ/6kyftmuxvk1DpaU4X42Av8z/tfKwEpuxl+vl7HHx/Q==
   dependencies:
     "@expo/config" "~8.0.0"
+    uuid "^3.3.2"
+
+expo-constants@~14.5.0:
+  version "14.5.1"
+  resolved "https://registry.yarnpkg.com/expo-constants/-/expo-constants-14.5.1.tgz#2b996604dc5ec642d29fc16380daa0a61a66472d"
+  integrity sha512-06OKXQmKI0vuje++6lm7w1kO3rKsZAHio/4d9hwQuVAtExJ6RM92BnpzkDAV16ZheVN/FHKzNyY1BYLqXfujMw==
+  dependencies:
+    "@expo/config" "~8.2.0"
     uuid "^3.3.2"
 
 expo-eas-client@~0.6.0:
