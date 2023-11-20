@@ -3513,10 +3513,10 @@ expo-asset@~8.9.1:
     path-browserify "^1.0.0"
     url-parse "^1.5.9"
 
-expo-constants@^15.2.0:
-  version "15.2.0"
-  resolved "https://registry.yarnpkg.com/expo-constants/-/expo-constants-15.2.0.tgz#494f8327321def4d0cae3fc2f888a26844b6ed5c"
-  integrity sha512-xr8JJijQ4+ZmHT8LC/ttc1iXWJ1JRngcnoKERJCrgfoXxMupDMeRNHZMU+s1VjcUZoWKMnzpE2NLCxI/XlxC1g==
+expo-constants@^15.3.0:
+  version "15.3.0"
+  resolved "https://registry.yarnpkg.com/expo-constants/-/expo-constants-15.3.0.tgz#18f33b9774fc2477065b1d935fb22c7ba49c0d3f"
+  integrity sha512-3HbZOBn4IAtBFvzifQRNebcqW6t2q9QobSwYpaW74Wjq1cu8sV3ZWHCM9cHyW3Rr2lElRReq/ViEYCvrYc0cEQ==
   dependencies:
     "@expo/config" "~8.4.0"
     uuid "^3.3.2"
