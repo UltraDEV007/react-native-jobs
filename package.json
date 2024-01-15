@@ -9,7 +9,7 @@
     "axios": "^1.6.5",
     "dotenv": "^16.3.1",
     "expo": "^48.0.21",
-    "expo-constants": "^15.4.2",
+    "expo-constants": "^15.4.3",
     "expo-font": "^11.6.0",
     "expo-linking": "~6.0.0",
     "expo-router": "^1.2.0",

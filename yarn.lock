@@ -3707,10 +3707,10 @@ expo-asset@~8.9.1:
     path-browserify "^1.0.0"
     url-parse "^1.5.9"
 
-expo-constants@^15.4.2:
-  version "15.4.2"
-  resolved "https://registry.yarnpkg.com/expo-constants/-/expo-constants-15.4.2.tgz#e62201d973b9c5bf0686169f77604058597fa425"
-  integrity sha512-goJ44MsjRkJQbi/w49n7HIsBnp7Caa4mPMDUgTwk07BCUM5yKPb3Ny2/0QsaUcqBNgke2IXxr4OhqDYLd1jWOQ==
+expo-constants@^15.4.3:
+  version "15.4.3"
+  resolved "https://registry.yarnpkg.com/expo-constants/-/expo-constants-15.4.3.tgz#e6080323e3651e98c1433ba0d06d1352cfbd2203"
+  integrity sha512-iOLIB0ckJFSzsH68FoYp9f8FB0CjKViuLnRID+OhiF3IGL1ja9IZdfvtZgkGJ27Az79yThX/9ktlw77+5ejGbA==
   dependencies:
     "@expo/config" "~8.5.0"
 
