@@ -13,7 +13,7 @@
     "expo-font": "^11.10.2",
     "expo-linking": "~6.2.2",
     "expo-router": "^3.4.6",
-    "expo-splash-screen": "~0.22.0",
+    "expo-splash-screen": "~0.26.4",
     "expo-status-bar": "~1.11.1",
     "expo-updates": "~0.24.9",
     "json5": "2.2.3",
