@@ -6385,10 +6385,10 @@ react-native-gesture-handler@~2.16.0:
     lodash "^4.17.21"
     prop-types "^15.7.2"
 
-react-native-reanimated@~3.9.0:
-  version "3.9.0"
-  resolved "https://registry.yarnpkg.com/react-native-reanimated/-/react-native-reanimated-3.9.0.tgz#e5c5f303415a2aadd7db786005159b26c21ae495"
-  integrity sha512-OMZV2BVmxZvm8UhlXBrESO0y/ODGTRpQRQUO7U9QXysOF9RaR8FbO6KS0x99MH19zfFTV8cLGN/vYW1dFia9Rw==
+react-native-reanimated@~3.11.0:
+  version "3.11.0"
+  resolved "https://registry.yarnpkg.com/react-native-reanimated/-/react-native-reanimated-3.11.0.tgz#d4265d4e0232623f5958ed60e1686ca884fc3452"
+  integrity sha512-BNw/XDgUfs8UhfY1X6IniU8kWpnotWGyt8qmQviaHisTi5lvwnaOdXQKfN1KGONx6ekdFRHRP5EFwLi0UajwKA==
   dependencies:
     "@babel/plugin-transform-arrow-functions" "^7.0.0-0"
     "@babel/plugin-transform-nullish-coalescing-operator" "^7.0.0-0"
