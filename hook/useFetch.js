@@ -7,6 +7,7 @@ const rapidApiKey = RAPID_API_KEY;
 
 // fetch data from api
 const useFetch = (endpoint, query) => {
+  
   // keep track of data, loading and error
   const [data, setData] = useState([]);
   const [isLoading, setIsLoading] = useState(false);
@@ -25,6 +26,7 @@ const useFetch = (endpoint, query) => {
 
   // fetch data
   const fetchData = async () => {
+    
     // set loading to true
     setIsLoading(true);
 
@@ -56,6 +58,7 @@ const useFetch = (endpoint, query) => {
   };
 
   return { data, isLoading, error, refetch };
+  
 };
 
 export default useFetch;
