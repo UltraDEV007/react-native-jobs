@@ -15,7 +15,7 @@
     "expo-router": "^3.4.8",
     "expo-splash-screen": "~0.26.4",
     "expo-status-bar": "~1.11.1",
-    "expo-updates": "~0.24.12",
+    "expo-updates": "~0.25.18",
     "json5": "2.2.3",
     "react": "18.2.0",
     "react-dom": "18.2.0",
