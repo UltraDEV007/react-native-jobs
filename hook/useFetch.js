@@ -14,6 +14,7 @@ const useFetch = (endpoint, query) => {
   const [error, setError] = useState(null);
 
   // api options
+  
   const options = {
     method: "GET",
     url: `https://jsearch.p.rapidapi.com/${endpoint}`,
@@ -22,6 +23,7 @@ const useFetch = (endpoint, query) => {
       "X-RapidAPI-Host": "jsearch.p.rapidapi.com",
     },
     params: { ...query },
+    
   };
 
   // fetch data
