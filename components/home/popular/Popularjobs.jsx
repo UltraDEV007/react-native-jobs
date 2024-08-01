@@ -44,7 +44,6 @@ const Popularjobs = () => {
     // set selected job
     setSelectedJob(item);
   };
-
   return (
     <View style={styles.container}>
       {/* Popular Jobs Header */}
